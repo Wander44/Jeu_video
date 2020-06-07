@@ -3,4 +3,4 @@ Voici un jeu programmé en fin de première année de CPGE en MPSI dans le cadre
 
 Lancez d'abord,  Les constantes (en script) Les fonctions (en script) Le main
 
-(PS : Il n'y a malheureusement pas les musiques)
+(PS : Il faut décompresser certaines musiques)
